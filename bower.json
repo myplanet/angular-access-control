@@ -1,0 +1,20 @@
+{
+  "name": "angular-access-control",
+  "main": "angular-access-control.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/myplanetdigital/angular-access-control",
+  "authors": [
+    "Ates Goral <ates.g@myplanetdigital.com>"
+  ],
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "angular",
+    "privilege",
+    "rbac"
+  ],
+  "license": "MIT"
+}
