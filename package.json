@@ -1,0 +1,18 @@
+{
+  "name": "angular-access-control",
+  "version": "0.0.0",
+  "description": "",
+  "main": "angular-access-control.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/myplanet/angular-access-control.git"
+  },
+  "keywords": [
+    "angular",
+    "privilege",
+    "rbac"
+  ],
+  "author": "Ates Goral <ates@myplanet.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/myplanet/angular-access-control"
+}
