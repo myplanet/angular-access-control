@@ -1,7 +1,7 @@
 {
   "name": "angular-access-control",
   "version": "0.0.1",
-  "description": "",
+  "description": "Automatic element manipulation based on access control policies",
   "main": "angular-access-control.js",
   "repository": {
     "type": "git",
