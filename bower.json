@@ -17,5 +17,6 @@
     "privilege",
     "rbac"
   ],
+  "ignore": [],
   "license": "MIT"
 }
